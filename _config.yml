@@ -21,7 +21,7 @@ timezone: Asia/Seoul
 
 title: DevRunner                          # the main title
 
-tagline: 나는 멈추지 않는다   # it will display as the sub-title
+tagline: 멈추지 마라   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   성장하는 개발 블로그
