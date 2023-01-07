@@ -38,7 +38,7 @@ tags: [devrunner,BOJ,백준,알고리즘]
         <div markdown="1">
 
         - [x] [스택](https://baejw0111.github.io/posts/BOJ-series-1-10828/)
-        - [ ] 단어 뒤집기
+        - [x] [단어 뒤집기](https://baejw0111.github.io/posts/BOJ-series-2-9093/)
         - [ ] 괄호
         - [ ] 스택 수열
         - [ ] 에디터
