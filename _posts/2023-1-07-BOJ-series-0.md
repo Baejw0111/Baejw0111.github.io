@@ -42,7 +42,7 @@ tags: [devrunner,BOJ,백준,알고리즘]
         - [x] [괄호](https://baejw0111.github.io/posts/BOJ-series-3-9012/)
         - [x] [스택 수열](https://baejw0111.github.io/posts/BOJ-series-4-1874/)
         - [x] [에디터](https://baejw0111.github.io/posts/BOJ-series-5-/1406)
-        - [ ] 큐
+        - [x] [큐](https://baejw0111.github.io/posts/BOJ-series-6-/10845)
         - [ ] 조세퍼스 문제
         - [ ] 덱
         - [ ] 단어 뒤집기 2
