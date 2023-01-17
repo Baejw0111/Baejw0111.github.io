@@ -45,7 +45,7 @@ tags: [devrunner,BOJ,백준,알고리즘]
         - [x] [큐](https://baejw0111.github.io/posts/BOJ-series-6-10845/)
         - [x] [조세퍼스 문제](https://baejw0111.github.io/posts/BOJ-series-7-1158/)
         - [x] [덱](https://baejw0111.github.io/posts/BOJ-series-8-1158/)
-        - [ ] 단어 뒤집기 2
+        - [x] [단어 뒤집기 2](https://baejw0111.github.io/posts/BOJ-series-9-17413/)
         - [ ] 쇠막대기
         - [ ] 오큰수
         - [ ] 오등큰수
