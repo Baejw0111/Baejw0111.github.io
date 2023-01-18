@@ -4,8 +4,11 @@
   type: github
   icon: 'fab fa-github'
 -
-  type: twitter
-  icon: 'fab fa-twitter'
+  # type: twitter
+  # icon: 'fab fa-twitter'
+  type: baekjoon-online-judge
+  icon: 'fa-sharp fa-solid fa-code'
+  url:  'https://solved.ac/profile/bjw0111'
 -
   type: email
   icon: 'fas fa-envelope'
