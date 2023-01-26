@@ -49,7 +49,7 @@ tags: [devrunner,BOJ,백준,알고리즘]
         - [x] [쇠막대기](https://baejw0111.github.io/posts/BOJ-series-10-10799/)
         - [x] [오큰수](https://baejw0111.github.io/posts/BOJ-series-11-17298/)
         - [x] [오등큰수](https://baejw0111.github.io/posts/BOJ-series-12-17299/)
-        - [x] 후위 표기식2(https://baejw0111.github.io/posts/BOJ-series-13-1935/)
+        - [x] [후위 표기식2](https://baejw0111.github.io/posts/BOJ-series-13-1935/)
         - [ ] 후위 표기식
         - [ ] 알파벳 개수
         - [ ] 알파벳 찾기
