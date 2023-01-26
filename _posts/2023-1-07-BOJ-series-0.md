@@ -49,6 +49,15 @@ tags: [devrunner,BOJ,백준,알고리즘]
         - [x] [쇠막대기](https://baejw0111.github.io/posts/BOJ-series-10-10799/)
         - [x] [오큰수](https://baejw0111.github.io/posts/BOJ-series-11-17298/)
         - [x] [오등큰수](https://baejw0111.github.io/posts/BOJ-series-12-17299/)
+        - [x] 후위 표기식2(https://baejw0111.github.io/posts/BOJ-series-13-1935/)
+        - [ ] 후위 표기식
+        - [ ] 알파벳 개수
+        - [ ] 알파벳 찾기
+        - [ ] 문자열 분석
+        - [ ] 단어 길이 재기
+        - [ ] ROT13
+        - [ ] 네 수
+        - [ ] 접미사 배열
 
         </div>
         </details>
@@ -58,15 +67,6 @@ tags: [devrunner,BOJ,백준,알고리즘]
         <summary>펼치기</summary>
         <div markdown="1">
 
-        - [ ] 후위 표기식2
-        - [ ] 후위 표기식
-        - [ ] 알파벳 개수
-        - [ ] 알파벳 찾기
-        - [ ] 문자열 분석
-        - [ ] 단어 길이 재기
-        - [ ] ROT13
-        - [ ] 네 수
-        - [ ] 접미사 배열
         - [ ] 나머지
         - [ ] 최대공약수와 최소공배수
         - [ ] 최소공배수
