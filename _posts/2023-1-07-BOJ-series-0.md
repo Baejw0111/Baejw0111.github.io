@@ -60,7 +60,7 @@ tags: [devrunner,BOJ,백준,알고리즘]
         <summary>펼치기</summary>
         <div markdown="1">
 
-        - [x] 최소공배수(https://baejw0111.github.io/posts/BOJ-series-15/)
+        - [x] [최소공배수](https://baejw0111.github.io/posts/BOJ-series-15/)
         - [ ] 소수 찾기
         - [ ] 소수 구하기
         - [ ] 골드바흐의 추측
