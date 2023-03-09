@@ -37,20 +37,20 @@ tags: [devrunner,BOJ,백준,알고리즘]
         <summary>펼치기</summary>
         <div markdown="1">
 
-        - [x] [스택](https://baejw0111.github.io/posts/BOJ-series-1-10828/)
-        - [x] [단어 뒤집기](https://baejw0111.github.io/posts/BOJ-series-2-9093/)
-        - [x] [괄호](https://baejw0111.github.io/posts/BOJ-series-3-9012/)
-        - [x] [스택 수열](https://baejw0111.github.io/posts/BOJ-series-4-1874/)
-        - [x] [에디터](https://baejw0111.github.io/posts/BOJ-series-5-1406/)
-        - [x] [큐](https://baejw0111.github.io/posts/BOJ-series-6-10845/)
-        - [x] [조세퍼스 문제](https://baejw0111.github.io/posts/BOJ-series-7-1158/)
-        - [x] [덱](https://baejw0111.github.io/posts/BOJ-series-8-1158/)
-        - [x] [단어 뒤집기 2](https://baejw0111.github.io/posts/BOJ-series-9-17413/)
-        - [x] [쇠막대기](https://baejw0111.github.io/posts/BOJ-series-10-10799/)
-        - [x] [오큰수](https://baejw0111.github.io/posts/BOJ-series-11-17298/)
-        - [x] [오등큰수](https://baejw0111.github.io/posts/BOJ-series-12-17299/)
-        - [x] [후위 표기식2](https://baejw0111.github.io/posts/BOJ-series-13-1935/)
-        - [x] [후위 표기식](https://baejw0111.github.io/posts/BOJ-series-14-1918/)
+        - [x] [스택](https://baejw0111.github.io/posts/BOJ-series-1/)
+        - [x] [단어 뒤집기](https://baejw0111.github.io/posts/BOJ-series-2/)
+        - [x] [괄호](https://baejw0111.github.io/posts/BOJ-series-3/)
+        - [x] [스택 수열](https://baejw0111.github.io/posts/BOJ-series-4/)
+        - [x] [에디터](https://baejw0111.github.io/posts/BOJ-series-5/)
+        - [x] [큐](https://baejw0111.github.io/posts/BOJ-series-6/)
+        - [x] [조세퍼스 문제](https://baejw0111.github.io/posts/BOJ-series-7/)
+        - [x] [덱](https://baejw0111.github.io/posts/BOJ-series-8/)
+        - [x] [단어 뒤집기 2](https://baejw0111.github.io/posts/BOJ-series-9/)
+        - [x] [쇠막대기](https://baejw0111.github.io/posts/BOJ-series-10/)
+        - [x] [오큰수](https://baejw0111.github.io/posts/BOJ-series-11/)
+        - [x] [오등큰수](https://baejw0111.github.io/posts/BOJ-series-12/)
+        - [x] [후위 표기식2](https://baejw0111.github.io/posts/BOJ-series-13/)
+        - [x] [후위 표기식](https://baejw0111.github.io/posts/BOJ-series-14/)
 
         </div>
         </details>
@@ -60,7 +60,7 @@ tags: [devrunner,BOJ,백준,알고리즘]
         <summary>펼치기</summary>
         <div markdown="1">
 
-        - [x] 최소공배수
+        - [x] 최소공배수(https://baejw0111.github.io/posts/BOJ-series-15/)
         - [ ] 소수 찾기
         - [ ] 소수 구하기
         - [ ] 골드바흐의 추측
