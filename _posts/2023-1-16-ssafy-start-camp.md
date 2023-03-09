@@ -2,7 +2,7 @@
 title: "[SSAFY] 스타트 캠프 종료 및 소감"
 date: 2023-01-16 17:11:00 +0900
 categories: [Blog,SSAFY]
-tags: [devrunner,ssafy,blog,싸피,스타트캠프]
+tags: [devrunner,ssafy,blog,싸피,스타트캠프,9기]
 ---
 
 서론
