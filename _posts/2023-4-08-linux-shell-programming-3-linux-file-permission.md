@@ -9,7 +9,7 @@ tags: [devrunner, imbedded, linux, shell programming, linux file system]
 
 ---
 
-### 1. 리눅스와 Host
+### 리눅스와 Host
 
 ---
 
@@ -21,7 +21,7 @@ tags: [devrunner, imbedded, linux, shell programming, linux file system]
 
 위 사진처럼 리눅스 터미널을 열면 `(user name)@(host name)`의 형식으로 표시된다.
 
-### 2. 사용자 계정 관리
+### 사용자 계정 관리
 
 ---
 
@@ -59,7 +59,7 @@ tags: [devrunner, imbedded, linux, shell programming, linux file system]
 
 ---
 
-### 1. 파일 종류
+### 파일 종류
 
 ---
 
@@ -71,7 +71,7 @@ tags: [devrunner, imbedded, linux, shell programming, linux file system]
 - **Link** File: 바로가기 파일
 - **Device** File: 장치 제어 파일
 
-### 2. 권한
+### 권한
 
 ---
 
@@ -116,7 +116,7 @@ tags: [devrunner, imbedded, linux, shell programming, linux file system]
 
   - `x`: 실행(execution) 권한
 
-### 3. 파일 정보 변경
+### 파일 정보 변경
 
 ---
 

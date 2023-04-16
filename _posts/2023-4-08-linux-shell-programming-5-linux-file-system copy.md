@@ -9,7 +9,7 @@ tags: [devrunner, imbedded, linux, shell programming, linux file system]
 
 ---
 
-### 1. `cat`
+### `cat`
 
 ---
 
@@ -19,7 +19,7 @@ tags: [devrunner, imbedded, linux, shell programming, linux file system]
 - `cat (파일명)`: 해당 파일 정보 출력
 - `cat (파일명) > (파일명)`: 파일 내용을 다른 파일로 저장
 
-### 2. `grep`
+### `grep`
 
 ---
 
@@ -31,7 +31,7 @@ tags: [devrunner, imbedded, linux, shell programming, linux file system]
 
 - `(명령어) | grep (문자열)`: 명령어 출력 결과에서 문자열을 검색
 
-### 3. `find`
+### `find`
 
 ---
 
@@ -45,7 +45,7 @@ tags: [devrunner, imbedded, linux, shell programming, linux file system]
 
   - `-type d`: 디렉토리 파일만 찾는 옵션
 
-### 4. `history`
+### `history`
 
 ---
 
@@ -55,7 +55,7 @@ tags: [devrunner, imbedded, linux, shell programming, linux file system]
 
 - `-c`: 명령어 이력 삭제 옵션
 
-### 5. `du`
+### `du`
 
 ---
 
@@ -65,13 +65,13 @@ tags: [devrunner, imbedded, linux, shell programming, linux file system]
 
 - `-h`: 사람이 알아보기 쉬운 형태로 출력
 
-### 6. `file`
+### `file`
 
 ---
 
 어떤 종류의 파일인지 확인할 수 있다.
 
-### 7. `which`
+### `which`
 
 ---
 

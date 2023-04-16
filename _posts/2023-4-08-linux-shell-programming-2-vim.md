@@ -20,8 +20,6 @@ tags: [devrunner, imbedded, linux, shell programming, vim]
 
 Vim 많이 쓰세요 Vim 좋음
 
-# **2. Vim**
-
 ## Vim의 기본적인 모드들
 
 ---
@@ -30,13 +28,15 @@ vim에는 여러 모드들이 있다.
 이 모드들을 오가며 문서 편집을 한다.
 주로 쓰이는 모드 4가지만 이해한다면 vim을 수월하게 다룰 수 있다.
 
-### 1. `Normal` 모드
+---
+
+### `Normal` 모드
 
 ---
 
 기본 모드로, 단축키를 통해 커서 이동, 또는 문서 편집을 진행하는 모드다.
 
-### 2. `Insert` 모드
+### `Insert` 모드
 
 ---
 
