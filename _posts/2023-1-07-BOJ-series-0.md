@@ -74,10 +74,8 @@ tags: [devrunner, BOJ, 백준, 알고리즘]
   <div markdown="1">
 
   - [x] [최소공배수](https://baejw0111.github.io/posts/BOJ-series-15/)
-  - [ ] 소수 구하기
   - [x] [골드바흐의 추측](https://baejw0111.github.io/posts/BOJ-series-16/)
-  - [ ] 팩토리얼 0의 개수
-  - [ ] 조합 0의 개수
+  - [x] [조합 0의 개수](https://baejw0111.github.io/posts/BOJ-series-17/)
   - [ ] GCD 합
   - [ ] 숨바꼭질 6
   - [ ] -2진수
