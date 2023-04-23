@@ -77,8 +77,7 @@ tags: [devrunner, BOJ, 백준, 알고리즘]
   - [x] [골드바흐의 추측](https://baejw0111.github.io/posts/BOJ-series-16/)
   - [x] [조합 0의 개수](https://baejw0111.github.io/posts/BOJ-series-17/)
   - [x] [-2진수](https://baejw0111.github.io/posts/BOJ-series-18/)
-  - [ ] 골드바흐 파티션
-  - [ ] Base Conversion
+  - [x] [골드바흐 파티션](https://baejw0111.github.io/posts/BOJ-series-19/)
 
   </div>
   </details>
