@@ -87,7 +87,7 @@ tags: [devrunner, BOJ, 백준, 알고리즘]
   <summary>펼치기</summary>
   <div markdown="1">
 
-  - [ ] 1로 만들기
+  - [x] [1로 만들기](https://baejw0111.github.io/posts/BOJ-series-20/)
   - [ ] 2×n 타일링
   - [ ] 2×n 타일링 2
   - [ ] 1, 2, 3 더하기
