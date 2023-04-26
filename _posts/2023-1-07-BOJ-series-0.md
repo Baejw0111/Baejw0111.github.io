@@ -89,7 +89,7 @@ tags: [devrunner, BOJ, 백준, 알고리즘]
 
   - [x] [1로 만들기](https://baejw0111.github.io/posts/BOJ-series-20/)
   - [x] [2×n 타일링](https://baejw0111.github.io/posts/BOJ-series-21/)
-  - [ ] 2×n 타일링 2
+  - [x] [2×n 타일링 2](https://baejw0111.github.io/posts/BOJ-series-22/)
   - [ ] 1, 2, 3 더하기
   - [ ] 카드 구매하기
   - [ ] 카드 구매하기 2
