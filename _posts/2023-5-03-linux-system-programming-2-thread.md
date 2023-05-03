@@ -1,5 +1,5 @@
 ---
-title: "[리눅스 - 시스템 프로그래밍] 1. 시스템 프로그래밍, System Call"
+title: "[리눅스 - 시스템 프로그래밍] 2. Thread"
 date: 2023-05-03 17:40:00 +0900
 categories: [임베디드, 리눅스]
 tags: [devrunner, imbedded, linux, system programming, thread]
