@@ -49,7 +49,7 @@ System Call은 **리눅스 App이 리눅스 커널에 명령을 내리기 위해
 즉 커널 레벨에서 동작하는 Low Level API다.
 줄여서 **Syscall**이라고도 한다.
 
-C언어의 `printf`,`scanf`,`fopen`과 같은 표준 입출력 함수(High Level API)들이 이 System Call로 만들어졌다.
+C언어의 `printf`, `scanf`, `fopen`과 같은 표준 입출력 함수(High Level API)들이 이 System Call로 만들어졌다.
 
 임베디드 시스템에서 장치 제어를 위해서는 장치 파일(Device File)을 읽어야 한다.
 이를 위해서는 파일 처리 System Call이 필수적이다.
