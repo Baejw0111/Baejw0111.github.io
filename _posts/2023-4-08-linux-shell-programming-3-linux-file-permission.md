@@ -5,13 +5,11 @@ categories: [임베디드, 리눅스]
 tags: [devrunner, imbedded, linux, shell programming, linux file system]
 ---
 
-## Host
+## **Host**
 
 ---
 
-### 리눅스와 Host
-
----
+### **리눅스와 Host**
 
 리눅스는 한 컴퓨터를 여러 명이 사용하는 **다중 사용자 시스템**으로 설계 되었다.
 
@@ -21,9 +19,7 @@ tags: [devrunner, imbedded, linux, shell programming, linux file system]
 
 위 사진처럼 리눅스 터미널을 열면 `(user name)@(host name)`의 형식으로 표시된다.
 
-### 사용자 계정 관리
-
----
+### **사용자 계정 관리**
 
 - `sudo su`: 사용자 변경
 
@@ -35,7 +31,7 @@ tags: [devrunner, imbedded, linux, shell programming, linux file system]
 
   - `--remove-all-files`: 계정의 모든 파일 다 삭제
 
-## 그룹
+## **그룹**
 
 ---
 
@@ -55,13 +51,11 @@ tags: [devrunner, imbedded, linux, shell programming, linux file system]
 
 - `delgroup (그룹명)`: 그룹 삭제
 
-## 파일 권한 설정
+## **파일 권한 설정**
 
 ---
 
-### 파일 종류
-
----
+### **파일 종류**
 
 리눅스에서는 파일과 폴더(디렉토리)를 **모두 똑같이 파일로 취급**한다.
 리눅스에서 관리하는 파일 종류는 다음과 같다
@@ -71,9 +65,7 @@ tags: [devrunner, imbedded, linux, shell programming, linux file system]
 - **Link** File: 바로가기 파일
 - **Device** File: 장치 제어 파일
 
-### 권한
-
----
+### **권한**
 
 `ls -al` 입력 시 다음과 같이 표시된다.
 
@@ -116,9 +108,7 @@ tags: [devrunner, imbedded, linux, shell programming, linux file system]
 
   - `x`: 실행(execution) 권한
 
-### 파일 정보 변경
-
----
+### **파일 정보 변경**
 
 `sudo chown (계정명):(그룹명) (파일명)`: **Ch**ange **Own**er.
 파일의 Owner(user)와 Group 변경
@@ -131,47 +121,47 @@ tags: [devrunner, imbedded, linux, shell programming, linux file system]
 - 예시
 
   ```bash
-  # user를 rwx로 바꾸기
+  # **user를 rwx로 바꾸기**
   ---
   $sudo chmod u=rwx ./aaa
 
-  # group를 rw-로 바꾸기
+  # **group를 rw-로 바꾸기**
   ---
   $sudo chmod g=rw- ./bbb
 
-  # other를 r-x로 바꾸기
+  # **other를 r-x로 바꾸기**
   ---
   $sudo chmod o=rx ./ccc
 
-  # ----------------------
+  # **----------------------**
   ---
 
-  # 수식 이용
+  # **수식 이용**
   ---
 
-  # user에 r권한 추가
+  # **user에 r권한 추가**
   ---
   $sudo chmod u+r ./aaa
 
-  # other에 r권한 제외
+  # **other에 r권한 제외**
   ---
   $sudo chmod o-r ./bbb
 
-  # u,g,o 모두 w 권한 추가(a는 all을 의미)
+  # **u,g,o 모두 w 권한 추가(a는 all을 의미)**
   ---
   $sudo chmod a+w ./aaa
 
-  # ----------------------
+  # **----------------------**
   ---
 
-  # 2진수 환산
+  # **2진수 환산**
   ---
 
-  # --x--x-rw = 113
+  # **--x--x-rw = 113**
   ---
-  # rwxrwxrwx = 777
+  # **rwxrwxrwx = 777**
   ---
-  # rw-rw----= 660
+  # **rw-rw----= 660**
   ---
 
   $sudo chmod 113 ./aaa
@@ -179,13 +169,10 @@ tags: [devrunner, imbedded, linux, shell programming, linux file system]
   $sudo chmod 660 ./ccc
   ```
 
-### **\*참고 1**) 실행 파일의 권한
+### \***\*\*참고 1**) 실행 파일의 권한\*\*
 
-텍스트 파일을 실행하면 쉘 스크립트로 동작한다.
 따라서 텍스트 파일을 실행하려면 `u=rx`로 권한 설정을 따로 해야한다.
 
-### **\*참고 2**) 디렉토리의 권한
-
-- execution:`cd`로 폴더에 접근할 수 있는 권한
+### \***\*\*참고 2**) 디렉토리의 권한\*\*
 
 - read: `ls`로 파일 목록을 읽을 수 있는 권한

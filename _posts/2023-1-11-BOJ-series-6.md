@@ -5,13 +5,13 @@ categories: [백준, 백준 알고리즘 강의 문제 시리즈]
 tags: [devrunner, BOJ, C++, 백준, 알고리즘 기초 1, 자료구조, 큐, BOJ 10845]
 ---
 
-### 링크
+## **링크**
 
 ---
 
 <https://www.acmicpc.net/problem/10845>
 
-### 문제 접근 방법
+## **문제 접근 방법**
 
 ---
 
@@ -19,7 +19,7 @@ tags: [devrunner, BOJ, C++, 백준, 알고리즘 기초 1, 자료구조, 큐, BO
 
 C++의 STL에 있는 큐를 사용해도 되지만 구현의 의미가 큰 문제이기 때문에 따로 클래스를 만들어 구현했다.
 
-### 코드
+## **코드**
 
 ---
 
@@ -160,6 +160,6 @@ Queue::~Queue() {
 }
 ```
 
-## 인증
+## **인증**
 
 ![image](https://user-images.githubusercontent.com/87963766/211717171-31236044-4e9c-40c8-b6f0-caebe1801e86.png)

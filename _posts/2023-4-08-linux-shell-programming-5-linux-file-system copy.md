@@ -5,13 +5,11 @@ categories: [임베디드, 리눅스]
 tags: [devrunner, imbedded, linux, shell programming, linux file system]
 ---
 
-## 쉘 명령어
+## **쉘 명령어**
 
 ---
 
-### `cat`
-
----
+### **`cat`**
 
 파일 내용 출력하는 명령어다.
 이 명령어를 이용해 파일 내용을 따로 저장 가능하다.
@@ -19,9 +17,7 @@ tags: [devrunner, imbedded, linux, shell programming, linux file system]
 - `cat (파일명)`: 해당 파일 정보 출력
 - `cat (파일명) > (파일명)`: 파일 내용을 다른 파일로 저장
 
-### `grep`
-
----
+### **`grep`**
 
 파일 내의 문자열을 검색하고 싶을 때 사용한다.
 
@@ -31,9 +27,7 @@ tags: [devrunner, imbedded, linux, shell programming, linux file system]
 
 - `(명령어) | grep (문자열)`: 명령어 출력 결과에서 문자열을 검색
 
-### `find`
-
----
+### **`find`**
 
 파일을 찾는 명령어다.
 
@@ -45,9 +39,7 @@ tags: [devrunner, imbedded, linux, shell programming, linux file system]
 
   - `-type d`: 디렉토리 파일만 찾는 옵션
 
-### `history`
-
----
+### **`history`**
 
 앞에서 다뤘다시피, 명령어 이력을 출력하는 함수다.
 
@@ -55,9 +47,7 @@ tags: [devrunner, imbedded, linux, shell programming, linux file system]
 
 - `-c`: 명령어 이력 삭제 옵션
 
-### `du`
-
----
+### **`du`**
 
 파일의 용량을 확인하는 명령어이다.
 
@@ -65,19 +55,15 @@ tags: [devrunner, imbedded, linux, shell programming, linux file system]
 
 - `-h`: 사람이 알아보기 쉬운 형태로 출력
 
-### `file`
-
----
+### **`file`**
 
 어떤 종류의 파일인지 확인할 수 있다.
 
-### `which`
-
----
+### **`which`**
 
 명령어의 바이너리 파일의 위치를 확인하고 싶을 때 사용한다.
 
-## 심볼릭 링크(바로가기)
+## **심볼릭 링크(바로가기)**
 
 ---
 
