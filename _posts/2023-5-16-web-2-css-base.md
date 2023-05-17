@@ -1,6 +1,6 @@
 ---
 title: "[웹 프로그래밍 - 2] CSS 기본"
-date: 2023-05-19 19:40:00 +0900
+date: 2023-05-17 15:40:00 +0900
 categories: [웹 프로그래밍, Frontend]
 tags: [devrunner, web, frontend, css]
 ---
@@ -166,7 +166,7 @@ CSS에서는 선택자로 규칙을 적용할 요소를 지정한다.
 
 ### **상속**
 
-부모 태그의 설정을 상속 받을 수 있다.
+특정 CSS 요소(`text-align`,`font-size`,`color` 등)는 부모 태그로부터 상속받는다.
 
 <p class="codepen" data-height="300" data-default-tab="css,result" data-slug-hash="abRamjK" data-user="Baejw0111" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/Baejw0111/pen/abRamjK">
