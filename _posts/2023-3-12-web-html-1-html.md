@@ -1,7 +1,7 @@
 ---
 title: "[웹 프로그래밍 - HTML] 1. HTML 기본"
 date: 2023-03-12 19:42:00 +0900
-categories: [웹 프로그래밍, Frontend]
+categories: [웹 프로그래밍, HTML]
 tags: [devrunner, web, frontend, html]
 ---
 

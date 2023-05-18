@@ -1,7 +1,7 @@
 ---
 title: "[웹 프로그래밍 - CSS] 2. CSS Layout"
 date: 2023-05-17 17:40:00 +0900
-categories: [웹 프로그래밍, Frontend]
+categories: [웹 프로그래밍, CSS]
 tags: [devrunner, web, frontend, css]
 ---
 
